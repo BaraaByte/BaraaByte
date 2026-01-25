@@ -63,8 +63,8 @@ Building projects, CPUs, AI tools, apps & more 💻
 ---
 
 ### 📊 GitHub Stats
-![Baraa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baraa123&show_icons=true&theme=radical&count_private=true&hide_border=true&show_icons=true)
+![Baraa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaraaByte&show_icons=true&theme=radical&count_private=true&hide_border=true&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baraa123&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaraaByte&layout=compact&theme=radical&hide_border=true)
 
 </div>
