@@ -9,7 +9,7 @@
 
 </div>
 
-## 🧠 About Me
+## 🧠 About Me 
 - 🧑‍💻 I build **apps, systems, and experimental projects**
 - ⚡ Interested in **low-level programming, AI, and full-stack development**
 - 🚀 Currently working on **advanced personal projects & tools**
