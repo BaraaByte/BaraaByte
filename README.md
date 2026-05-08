@@ -22,7 +22,7 @@
   → https://github.com/BaraaByte/your-ai-project  
 
 - 📱 **Full-Stack App**  
-  → https://github.com/BaraaByte/your-app  
+  → https://github.com/BaraaByte/codenotex
 
 ---
 
