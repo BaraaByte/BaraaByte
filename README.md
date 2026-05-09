@@ -49,7 +49,10 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://ghstats.dev/api/card?username=BaraaByte&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaraaByte&layout=compact&theme=radical&hide_border=true)
+## Top Languages
+
+![Top Languages By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BaraaByte&theme=calm)
+![Top Languages By Commits]([http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BaraaByte&theme=calm](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BaraaByte&theme=calm))
 
 ---
 
