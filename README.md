@@ -52,7 +52,7 @@
 ## Top Languages
 
 ![Top Languages By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BaraaByte&theme=calm)
-![Top Languages By Commits]([http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BaraaByte&theme=calm](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BaraaByte&theme=calm))
+![Top Languages By Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BaraaByte&theme=calm)
 
 ---
 
