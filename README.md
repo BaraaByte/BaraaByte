@@ -17,10 +17,6 @@
 
 ---
 
-## 🚀 Featured Projects
-- 🤖 **AI Tool / Automation Project**  
-  → https://github.com/BaraaByte/your-ai-project  
-
 - 📱 **Full-Stack App**  
   → https://github.com/BaraaByte/codenotex
 
